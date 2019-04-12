@@ -1,0 +1,7 @@
+classes = 13
+train = data/train.list
+valid = data/train.list
+names = data/names.list
+backup = backup/
+results = results/
+top = 5
